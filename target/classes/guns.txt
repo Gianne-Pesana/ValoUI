@@ -1,0 +1,20 @@
+classic, sidearms, 100
+shorty, sidearms, 150
+frenzy, sidearms, 450
+ghost, sidearms, 500
+sheriff, sidearms, 800
+stinger, smgs, 950
+spectre, smgs, 1600
+bucky, shotguns, 850
+judge, shotguns, 1850
+bulldog, rifles, 2050
+guardian, rifles, 2250
+phantom, rifles, 2900
+vandal, rifles, 2900
+marshal, sniper_rifles, 950
+operator, sniper_rifles, 4700
+aries, machine_guns, 1600
+odin, machine_guns, 3200
+light shields, armor, 400
+regen shields, armor, 650
+heavy shields, armor, 1000

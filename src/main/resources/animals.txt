@@ -1,0 +1,5 @@
+dog, Matthew, Golden Retriever, 3000
+dog, Mark, Labrador Retriever, 2000
+cat, Luke, Sphynx, 3500
+bird, John, European Roller, 2000
+snake, Alejandro, King Cobra, 2250
